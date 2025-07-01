@@ -27,5 +27,4 @@ How do high-danger shooting opportunities and rebound generation jointly influen
 ## Usage
 1. Clone the repository
 2. Install required R packages
-3. Run scripts in numerical order (01-04)
-4. Results and figures will be generated in `/output`
+3. Run scripts in numerical order 
